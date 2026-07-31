@@ -1,4 +1,4 @@
-# VirtualLib – Sistema de Gestión de Biblioteca Digital
+# Actvidad #6 Duval Yepez Utm – Sistema de Gestión de Biblioteca Digital
 
 Aplicación web full-stack para la administración de una biblioteca digital. Permite gestionar usuarios, libros y préstamos desde un panel de control único, comunicándose con tres microservicios independientes en el backend.
 
